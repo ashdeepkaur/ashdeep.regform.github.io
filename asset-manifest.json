@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashdeep.regform.github.io/static/css/main.609fd1e9.css",
+    "main.js": "/ashdeep.regform.github.io/static/js/main.c4ad46cf.js",
+    "static/js/787.ab749f01.chunk.js": "/ashdeep.regform.github.io/static/js/787.ab749f01.chunk.js",
+    "index.html": "/ashdeep.regform.github.io/index.html",
+    "main.609fd1e9.css.map": "/ashdeep.regform.github.io/static/css/main.609fd1e9.css.map",
+    "main.c4ad46cf.js.map": "/ashdeep.regform.github.io/static/js/main.c4ad46cf.js.map",
+    "787.ab749f01.chunk.js.map": "/ashdeep.regform.github.io/static/js/787.ab749f01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.609fd1e9.css",
+    "static/js/main.c4ad46cf.js"
+  ]
+}
